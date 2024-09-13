@@ -1,6 +1,6 @@
 # Lab1
 # Submission Details
-In this lab you will create five simple scripts. Write the scripts in code spaces or clone the repository and open the files in VSCode. 
+In this lab you will create five simple scripts. Write the scripts in JupyterLab. 
 Please note that you must complete the lab during the class hours and show your progress to the professor to receive the marks for the lab.
 
 # Lab Objectives
@@ -77,9 +77,8 @@ Please note that you must complete the lab during the class hours and show your 
 
 
 ## Lab 1 Sign-Off
-- Submit the screenshots of each individual script, the screenshot must show your scripts and command line interface and output.
-- The screenshot must also show your username on github codespaces.
-- Submit individual screenshots of the following scripts:
+- Submit the screenshots of each individual script, the screenshot must show your scripts and output.
+  - Submit individual screenshots of the following scripts:
     - lab1a.py
     - lab1b.py
     - lab1c.py
