@@ -20,12 +20,19 @@ print (uppercase_text)
 # Create a variable called "words".
 # The value of words should be "The quick brown fox jumps over the lazy dog".
 # Use indexing to return the first and 17th charecters of "words" to the user.
-words = "The quick brown fox jumps oer the lazy dog"
-characters = words [0:17:16]
+words = "The quick brown fox jumps over the lazy dog"
+characters = words [0] + words [16]
 print (characters)
 #TO-DO 3:
 # Use negative indexing to return the words "jumps" and "quick" from "words" to the user.
-
+jumps = words [-23:-18]
+print(jumps)
+quick = words [-39:-34]
+print(quick)
 #TO-DO 4:
 # Use slicing to retun everything between index 2-15 to the user.
 # Print "uick brown foxs ju" from "words".
+user = words [2:15]
+print (user)
+uick = words [5:22]
+print (uick)
